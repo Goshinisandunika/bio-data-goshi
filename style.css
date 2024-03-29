@@ -1,0 +1,124 @@
+.all{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: 10px;
+}
+
+.left-site{
+    margin: 0;
+    padding: 0;
+    background-color: #003049;
+    /* border: 1px solid red; */
+    height: 850px;
+    width: 400px;
+}
+
+.right-site{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    /* border: 1px solid red; */
+    height: 1500px;
+    flex: 1;
+}
+
+.img-tag img{
+    width: 150px;
+    border-radius: 250px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+h5{
+    margin-left: 45px;
+    color: #f9f6f6;
+    font-size: 17px;
+}
+
+h4{
+    margin-left: 120px;
+    color: aliceblue;
+    margin-left: 120px;
+}
+
+.Line{
+    width: 350px;
+    margin-left: 25px;
+    color: #f9f6f6;
+}
+
+.Contact h4{
+    margin-left: 40px;
+    font-weight: bold;
+    color: #f9f6f6;
+}
+
+.Contact ul{
+    color: #a19595;
+}
+
+.progress-01{
+    width: 350px;
+    margin-left: 10px;
+}
+
+h6{
+    font-size: 10px;
+    color: #a19595;
+    margin-left: 10px;
+}
+
+.profile h1{
+    color: #003049;
+}
+
+.profile h5{
+    color: black;
+}
+
+.professional-skills h1{
+    color: #003049;
+}
+
+.skills{
+    font-size: 20px;
+    color: black;
+}
+
+.right-site-in{
+    /* border: 1px solid red; */
+    width: 500px;
+}
+
+.experiences h1{
+    color: #003049;
+    /* border: 1px solid red; */
+    display: flex;
+}
+
+.main{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.experiences p{
+    color: black;
+}
+
+.interest h3{
+    color: #003049;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.interest-img img{
+    width: 80px;
+}
+
+.interest-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
